@@ -1,6 +1,7 @@
 # Agner-Browser-para-Android
 O navegador leve que respeita sua privacidade agora para Android
 Disponível para Download em .apk (ainda não disponível na Play Store)
+Para baixar o Aplicativo, click no link: https://github.com/AgnerSecurity/Agner-Browser-para-Android/raw/main/Agner_Browser.apk
 
 
 
